@@ -22,7 +22,6 @@ namespace lollmaorofl
                 {
                     Console.WriteLine("lol");
                 }
-                System.Threading.Thread.Sleep(50);
             }
         }
 
